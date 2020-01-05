@@ -1,6 +1,3 @@
-function divide(){
-  return 2000/100
-}
 
 let divide = () => 2000/100
 
